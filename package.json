@@ -1,0 +1,27 @@
+{
+  "name": "pbl-code-editor",
+  "version": "1.0.0",
+  "description": "this is all purpose code editor",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAM324674/PBL-Code-Editor.git"
+  },
+  "keywords": [
+    "compiler",
+    "editor"
+  ],
+  "author": "Samiksha Giri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAM324674/PBL-Code-Editor/issues"
+  },
+  "homepage": "https://github.com/SAM324674/PBL-Code-Editor#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
