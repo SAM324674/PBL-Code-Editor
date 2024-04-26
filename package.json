@@ -22,8 +22,11 @@
   "homepage": "https://github.com/SAM324674/PBL-Code-Editor#readme",
   "dependencies": {
     "colors": "^1.4.0",
+    "compile-run": "^2.3.4",
+    "cookie-parser": "^1.4.6",
     "ejs": "^3.1.10",
     "express": "^4.19.2",
+    "express-session": "^1.18.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.3.2",
     "nodemon": "^3.1.0",
